@@ -1,13 +1,3 @@
-/*************
- **  File : PA4_MSiaam.pde
- **  Name: Muhammad Moin Uddin (Siaam)
- **  Date : 11/6/2022
- **  Class : COMP101Y
- **  Email: zu75370@umbc.edu
- **  GitHub : TheZombieGoat
- **  Description: Frogger moves around, bouncing off top and bottom
- **  and wrapping around left and right edges BUT now he needs to avoid baddie.
- */
 
 //Constants
 final int NUM_GOODIES = 3; 
